@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+ 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: hsl(0, 0%, 30%);
+}
+
+a {
+text-decoration: None;
+}
+
+.container {
+    margin-top: 3rem;
+}
+
+.box-element {
+box-shadow: hsl(0, 0%, 80%) 0 0 16px;
+background-color: #fff;
+border-radius: 4px;
+padding: 10px;
+}
+
+.product {
+border-radius: 0 0 4px 4px;
+}
+
+.col-lg-4 {
+margin-top: 10px;
+}
+
+.btn {
+border-radius: 0;
+}
